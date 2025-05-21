@@ -1,4 +1,4 @@
-# 쉘스크립트 작성 : 반드시 확장자는 .sh
+# 쉘스크립트 작성 : 반드시 확장자는 .sh (+ 실행 권한 반드시 필요)
 touch myscript.sh
 nano myscript.sh
 echo "hello world"
